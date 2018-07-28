@@ -12,4 +12,4 @@ It's pretty simple, just:
 
    **If the page that started hydra.js is closed, hydra() will stop.** (Alternatively, you somehow host hydra.js on a code snippet website
    and make it so that hydra(), hydran(), and hydrone() adds a script tag that refers to the hydra.js script url. However, you'd
-   need to be able to know what the url will be before you post it.
+   need to be able to know what the url will be before you post it. If you manage to do this, please let me know.)
