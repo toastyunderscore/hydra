@@ -10,6 +10,5 @@ It's pretty simple, just:
    **Make sure to tell the user to enable pop-ups.** (Yes, I know it kind of ruins the fun if they have to enable it, but if you have any
    suggestions, I'm open for ideas.)
 
-   **If the page that started hydra.js is closed, hydra() will stop.** (Alternatively, you somehow host hydra.js on a code snippet website
-   and make it so that "hydra()", "hydran()", and "hydrone()" adds a script tag that refers to the hydra.js script url. However, you'd
-   need to be able to know what the url will be before you post it. If you manage to do this, please let me know.)
+   **If the page that started hydra.js is closed, hydra() will stop.** (Alternatively, you can modify hydra.js to have each windows come 
+   with a script tag that links directly to hydra.js as well.)
